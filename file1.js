@@ -12,5 +12,9 @@
 
 void main()
 {
-	print "somrthing here"
+	print "somrthing here";
+
+	print "some more stuff";
+
+	//no thing more
 }
