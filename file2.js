@@ -16,4 +16,13 @@ void func(int a, int b)
 
 	c = a +b;
 	print "C = " ; c
+
+	//this is version 2.0 stuff-------
+	if (c==1)
+	{
+		int a=0;
+		c= a+1;
+	}
+	//--------------------------------
+	
 }
